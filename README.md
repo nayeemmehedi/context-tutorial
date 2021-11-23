@@ -42,8 +42,9 @@ start...
  kore dete hbe...
 
  example :
-     <ContextState>
-
+        
+        
+      <ContextState>
           <Route path="/user">
             <Users />
 
@@ -51,8 +52,7 @@ start...
           <Route path="/">
             <Home />
           </Route>
-
-         </ContextState>
+     </ContextState>
 
 
 ##8. <User /> ei khne context use krte chai ..
